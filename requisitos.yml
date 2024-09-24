@@ -1,0 +1,4 @@
+requisitos:
+  - req1: "El sistema debe permitir la creación de facturas."
+  - req2: "El sistema debe soportar múltiples monedas."
+  - req3: "El sistema debe tener autenticación de dos factores."
